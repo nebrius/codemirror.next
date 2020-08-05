@@ -26,6 +26,7 @@
   ],
   "author": "Marijn Haverbeke <marijnh@gmail.com>",
   "type": "module",
+  "types": "./view/src/index.d.ts",
   "exports": {
     "./state": "./state/dist/index.js",
     "./text": "./text/dist/index.js",
